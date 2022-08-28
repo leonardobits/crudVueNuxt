@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "L:\\\\dev\\\\vue\\\\crud\\\\crud\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_5297419f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "L:\\\\dev\\\\vue\\\\crud\\\\crud\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3208a2d7"
+  }
+]
